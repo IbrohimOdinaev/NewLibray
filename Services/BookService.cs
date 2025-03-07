@@ -41,10 +41,10 @@ public class BookService : IBookService
         PublishingOfficeService publishingOfficeService = new();
 
         if(!authorService.AddBook(newBookAuthorId, newDbBook.Id))
-            Console.WriteLine("Undefined auhtor!")
+            Console.WriteLine("Undefined auhtor!");
 
         if (!publishingOfficeService.AddBook(newBookPublishingOfficeId, newDbBook.Id))
-            Console.WriteLine("Undefined Publishing office!")
+            Console.WriteLine("Undefined Publishing office!");
 
         DbLibrary._booksId.Add(newBook.Id);
 

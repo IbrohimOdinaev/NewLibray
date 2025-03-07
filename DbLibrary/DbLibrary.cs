@@ -1,11 +1,10 @@
-using AuxilaryObjects;
 using DbObjects;
 
 namespace Library;
 
 public static class DbLibrary 
 {
-    public static string Title {get; set;} = AuxilaryConstants._library;
+    public static string Title {get; set;} = "Library";
 
     public static DbLocation? Location {get; set;}
 
