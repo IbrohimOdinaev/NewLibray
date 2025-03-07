@@ -1,0 +1,14 @@
+D:\c#\NewLibrary\bin\Debug\net7.0\NewLibrary.exe
+D:\c#\NewLibrary\bin\Debug\net7.0\NewLibrary.deps.json
+D:\c#\NewLibrary\bin\Debug\net7.0\NewLibrary.runtimeconfig.json
+D:\c#\NewLibrary\bin\Debug\net7.0\NewLibrary.dll
+D:\c#\NewLibrary\bin\Debug\net7.0\NewLibrary.pdb
+D:\c#\NewLibrary\obj\Debug\net7.0\NewLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\NewLibrary\obj\Debug\net7.0\NewLibrary.AssemblyInfoInputs.cache
+D:\c#\NewLibrary\obj\Debug\net7.0\NewLibrary.AssemblyInfo.cs
+D:\c#\NewLibrary\obj\Debug\net7.0\NewLibrary.csproj.CoreCompileInputs.cache
+D:\c#\NewLibrary\obj\Debug\net7.0\NewLibrary.dll
+D:\c#\NewLibrary\obj\Debug\net7.0\refint\NewLibrary.dll
+D:\c#\NewLibrary\obj\Debug\net7.0\NewLibrary.pdb
+D:\c#\NewLibrary\obj\Debug\net7.0\NewLibrary.genruntimeconfig.cache
+D:\c#\NewLibrary\obj\Debug\net7.0\ref\NewLibrary.dll
